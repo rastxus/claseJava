@@ -4,7 +4,7 @@ package modelo;
 
 /**
  * @author jesus
- *
+ *asdfad
  */
 public class SesionUsuario {
 	public Usuario usr;		//hemos creado el objeto "usr" que esta formado por la clase usuario.

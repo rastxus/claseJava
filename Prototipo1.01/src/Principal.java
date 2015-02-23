@@ -25,7 +25,7 @@
 				Scanner teclado1 = new Scanner(System.in);
 				Scanner teclado2 = new Scanner(System.in);
 				
-			System.out.println("\n\n\n|*******************************************[]");
+			System.out.println("\n\n\n|*********************sdfa**********************[]");
 			System.out.println("|[1] Crear Datos Usuarios.                  []");
 			System.out.println("|[2] Muestra Datos Usuarios.                []");
 			System.out.println("|[3] Inciar sesion.                         []");
