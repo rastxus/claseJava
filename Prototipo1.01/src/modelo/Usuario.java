@@ -18,6 +18,7 @@ public class Usuario {
 		public String fechaAlta;
 		public String claveAcceso;
 		public String rol;
+		public String id;
 		
 	
 		/**public String toString() {
